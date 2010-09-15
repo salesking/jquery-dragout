@@ -1,0 +1,9 @@
+= jQuery Dragout
+
+Plugin can be used to dragout files from your webbrowser onto your desktop.
+
+Currently only works in google chrome and firefox 4 beta.
+
+stay tuned for further features
+
+Copyright (c) 2009, 2010 Georg Leciejewski, released under the MIT license
